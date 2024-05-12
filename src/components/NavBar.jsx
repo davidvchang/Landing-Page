@@ -3,7 +3,7 @@ import Nav from './ui/Nav'
 
 function NavBar() {
   return (
-    <section className='w-full h-14 bg-BG-Gray flex flex-row items-center justify-between px-28'>
+    <section className='w-full h-14 bg-BG-Gray flex flex-row items-center justify-around '>
         <span className='font-semibold text-2xl'>Logo</span>
 
             {/* Contenedor Nav */}
